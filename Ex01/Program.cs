@@ -47,8 +47,7 @@ namespace Ex01
             else
             {
                 dados = new Conta(nome, conta);
-                Console.WriteLine("\n" + dados);
-                Console.WriteLine("\n");
+                
 
             }
             Console.WriteLine("\n" + dados);
